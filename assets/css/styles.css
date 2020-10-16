@@ -1,0 +1,15 @@
+#about {
+  height: 650px;
+  padding: 58px;
+  padding-bottom: 59px;
+}
+
+#about p {
+  margin: 0 auto;
+}
+
+.caption h4 {
+  color: rgb(210,242,238);
+  font-family: 'Abel';
+}
+
